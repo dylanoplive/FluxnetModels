@@ -3,7 +3,6 @@ AnyLora,https://huggingface.co/johnkillington/AnyLora-CoreML/resolve/main/anylor
 ChilloutMix,https://huggingface.co/coreml-community/coreml-ChilloutMix/resolve/main/original/chilloutmix-ni_original_mm2-vae.zip,CoreML
 Mini SD (256x256 VAE),https://huggingface.co/coreml-community/coreml-miniSD/resolve/main/original/256x256/miniSD_original_256x256_mm2-vae.zip,CoreML
 Stable Diffusion 2.1 Base,https://huggingface.co/coreml-community/coreml-stable-diffusion-2-1-base/resolve/main/original/512x768/stable-diffusion-v2.1-base_no-i2i_original_512x768.zip,CoreML
-Stable Diffusion 2.1 Base 4-bit,https://huggingface.co/Vishnou/coreml-stable-diffusion-2-1-base-4-bit/resolve/main/coreml-stable-diffusion-2-1-4-bit_split_einsum_compiled.zip?download=true,CoreML
 Stable Diffusion XL Base,https://huggingface.co/apple/coreml-stable-diffusion-xl-base/resolve/main/coreml-stable-diffusion-xl-base_original_compiled.zip,CoreML
 NeverEnding Dream NED,https://huggingface.co/coreml-community/coreml-NeverEnding-Dream/resolve/main/split-einsum/neverending-Dream-NED-bp_split-einsum.zip,CoreML
 BraBeautifulRealistic v5,https://huggingface.co/coreml-community/coreml-braBeautifulRealistic_brav5/resolve/main/split-einsum/braBeautifulRealistic_brav5_original.zip,CoreML
@@ -12,7 +11,6 @@ AnotherAnime25dMix v10,https://huggingface.co/johnkillington/anotherAnime25dMix2
 Segmind Tiny-SD,https://huggingface.co/ZachNagengast/coreml-segmind-tiny-sd/resolve/main/coreml-segmind-tiny-sd_split_einsum_v2_compiled.zip,CoreML
 Anything v4.5,https://huggingface.co/coreml-community/coreml-anything-v4.0/resolve/main/split_einsum/anything-v4.5_split-einsum.zip,CoreML
 L.O.F.I V2 (VAE embedded),https://huggingface.co/coreml-community/coreml-lofi-V2/resolve/main/split_einsum/lofi-V2_split-einsum.zip,CoreML
-DreamShaper v5,https://huggingface.co/coreml-community/coreml-dreamshaper-4-and-5/resolve/main/split_einsum/dreamshaper-5_split-einsum.zip,CoreML
 DreamShaper v4,https://huggingface.co/coreml-community/coreml-dreamshaper-4-and-5/resolve/main/split_einsum/dreamshaper-4_split-einsum.zip,CoreML
 DreamShaper v8 CN (alt),https://huggingface.co/coreml-community/cormel-DreamShaper-v8_cn/resolve/main/split_einsum/DreamShaper-v8_split-einsum_cn.zip,CoreML
 ComicStyle ALL,https://huggingface.co/johnkillington/PriusComicStyle-CoreML/resolve/main/ComicStyle-ALL.zip,CoreML
