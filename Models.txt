@@ -22,3 +22,4 @@ SDXL Turbo (MLX),https://huggingface.co/stabilityai/sdxl-turbo,MLX
 CinematicDiffusion (MLX),https://huggingface.co/johnkillington/CinematicDiffusion-MLX,MLX
 AnythingV7 (MLX),https://huggingface.co/johnkillington/AnythingV7-MLX,MLX
 RealCartoon3D v18 (MLX),https://huggingface.co/johnkillington/realcartoon3d_v18-MLX,MLX
+RealCartoon3D v18 (CoreML),https://huggingface.co/johnkillington/RealCartoon3D_v18-CoreML,CoreML
