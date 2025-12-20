@@ -1,0 +1,2 @@
+https://huggingface.co/johnkillington/RealCartoon3D_v18-CoreML
+https://huggingface.co/johnkillington/waifu-public-CoreML
