@@ -25,3 +25,5 @@ Waifu Public (CoreML),https://huggingface.co/johnkillington/waifu-public-CoreML,
 Waifu Public (MLX),https://huggingface.co/johnkillington/waifu-public-MLX,MLX
 AI-R-Ealistic (MLX),https://huggingface.co/johnkillington/ai-r-ealistic_v1-MLX,MLX
 AI-R-Ealistic (CoreML),https://huggingface.co/johnkillington/ai-r-ealistic_v1-CoreML,CoreML
+BRAVO - MemeMix (MLX),https://huggingface.co/johnkillington/bravo-mememix-MLX,MLX
+BRAVO - MemeMix (CoreML),https://huggingface.co/johnkillington/bravo-mememix-CoreML,CoreML
