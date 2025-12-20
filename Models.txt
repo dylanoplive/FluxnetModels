@@ -23,3 +23,5 @@ RealCartoon3D v18 (MLX),https://huggingface.co/johnkillington/realcartoon3d_v18-
 RealCartoon3D v18 (CoreML),https://huggingface.co/johnkillington/RealCartoon3D_v18-CoreML,CoreML
 Waifu Public (CoreML),https://huggingface.co/johnkillington/waifu-public-CoreML,CoreML
 Waifu Public (MLX),https://huggingface.co/johnkillington/waifu-public-MLX,MLX
+AI-R-Ealistic (MLX),https://huggingface.co/johnkillington/ai-r-ealistic_v1-MLX,MLX
+AI-R-Ealistic (CoreML),https://huggingface.co/johnkillington/ai-r-ealistic_v1-CoreML,CoreML
