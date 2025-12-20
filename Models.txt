@@ -21,3 +21,4 @@ CinematicDiffusion (MLX),https://huggingface.co/johnkillington/CinematicDiffusio
 AnythingV7 (MLX),https://huggingface.co/johnkillington/AnythingV7-MLX,MLX
 RealCartoon3D v18 (MLX),https://huggingface.co/johnkillington/realcartoon3d_v18-MLX,MLX
 RealCartoon3D v18 (CoreML),https://huggingface.co/johnkillington/RealCartoon3D_v18-CoreML,CoreML
+Waifu Public (CoreML),https://huggingface.co/johnkillington/waifu-public-CoreML,CoreML
