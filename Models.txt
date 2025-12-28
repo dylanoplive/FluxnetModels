@@ -36,3 +36,5 @@ ArtaixRealism v10 (MLX),https://huggingface.co/johnkillington/artaixrealism_v10-
 BravoSpaceVoyage v20 (MLX),https://huggingface.co/johnkillington/bravospacevoyage_v20-MLX,MLX
 BravoAnimeFM v10 (MLX),https://huggingface.co/johnkillington/bravoanimefm_v10-MLX,MLX
 BravoHauntingVisions v40 (MLX),https://huggingface.co/johnkillington/bravohauntingvisions_v40-MLX,MLX
+QchanRealisticMix v50 (MLX),https://huggingface.co/johnkillington/qchanrealisticmix_v50-MLX,MLX
+QchanAnimeMix v60 (MLX),https://huggingface.co/johnkillington/qchananimemix_v60-MLX,MLX
