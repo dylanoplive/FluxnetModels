@@ -29,3 +29,10 @@ BRAVO - MemeMix (MLX),https://huggingface.co/johnkillington/bravo-mememix-MLX,ML
 BRAVO - MemeMix (CoreML),https://huggingface.co/johnkillington/bravo-mememix-CoreML,CoreML
 ChenkinXMILFYNooBai v20 (MLX),https://huggingface.co/johnkillington/chenkinxmilfynoobai_v20-MLX,MLX
 ChenkinXMILFYNooBai v20 (CoreML),https://huggingface.co/johnkillington/chenkinxmilfynoobai_v20-CoreML,CoreML
+PerfectDeliberate v5 SD15 (MLX),https://huggingface.co/johnkillington/perfectdeliberate_v5sd15-MLX,MLX
+PerfectDeliberate v30a (MLX),https://huggingface.co/johnkillington/perfectdeliberate_v30a-MLX,MLX
+PerfectDeliberate v20 (MLX),https://huggingface.co/johnkillington/perfectdeliberate_v20-MLX,MLX
+ArtaixRealism v10 (MLX),https://huggingface.co/johnkillington/artaixrealism_v10-MLX,MLX
+BravoSpaceVoyage v20 (MLX),https://huggingface.co/johnkillington/bravospacevoyage_v20-MLX,MLX
+BravoAnimeFM v10 (MLX),https://huggingface.co/johnkillington/bravoanimefm_v10-MLX,MLX
+BravoHauntingVisions v40 (MLX),https://huggingface.co/johnkillington/bravohauntingvisions_v40-MLX,MLX
