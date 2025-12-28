@@ -38,3 +38,7 @@ BravoAnimeFM v10 (MLX),https://huggingface.co/johnkillington/bravoanimefm_v10-ML
 BravoHauntingVisions v40 (MLX),https://huggingface.co/johnkillington/bravohauntingvisions_v40-MLX,MLX
 QchanRealisticMix v50 (MLX),https://huggingface.co/johnkillington/qchanrealisticmix_v50-MLX,MLX
 QchanAnimeMix v60 (MLX),https://huggingface.co/johnkillington/qchananimemix_v60-MLX,MLX
+DisneyPixarCartoon v10 (MLX),https://huggingface.co/johnkillington/disneypixarcartoon_v10-MLX,MLX
+RealisticStockPhoto v30 SD15 (MLX),https://huggingface.co/johnkillington/realisticstockphoto_v30sd15-MLX,MLX
+Samaritan3dCartoon v3 (MLX),https://huggingface.co/johnkillington/samaritan3dcartoon_samaritan3dcartoonv3-MLX,MLX
+Samaritan3dCartoon v40 SDXL (MLX),https://huggingface.co/johnkillington/samaritan3dcartoon_v40sdxl-MLX,MLX
