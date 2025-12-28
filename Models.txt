@@ -42,3 +42,5 @@ DisneyPixarCartoon v10 (MLX),https://huggingface.co/johnkillington/disneypixarca
 RealisticStockPhoto v30 SD15 (MLX),https://huggingface.co/johnkillington/realisticstockphoto_v30sd15-MLX,MLX
 Samaritan3dCartoon v3 (MLX),https://huggingface.co/johnkillington/samaritan3dcartoon_samaritan3dcartoonv3-MLX,MLX
 Samaritan3dCartoon v40 SDXL (MLX),https://huggingface.co/johnkillington/samaritan3dcartoon_v40sdxl-MLX,MLX
+CuteCartoon v10 (MLX),https://huggingface.co/johnkillington/cutecartoon_v10-MLX,MLX
+OmniaMultiConcept v10 (MLX),https://huggingface.co/johnkillington/omniamulticoncept_v10-MLX,MLX
