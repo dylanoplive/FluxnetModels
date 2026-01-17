@@ -43,3 +43,4 @@ Samaritan3dCartoon v3 (MLX),https://huggingface.co/johnkillington/samaritan3dcar
 Samaritan3dCartoon v40 SDXL (MLX),https://huggingface.co/johnkillington/samaritan3dcartoon_v40sdxl-MLX,MLX
 CuteCartoon v10 (MLX),https://huggingface.co/johnkillington/cutecartoon_v10-MLX,MLX
 OmniaMultiConcept v10 (MLX),https://huggingface.co/johnkillington/omniamulticoncept_v10-MLX,MLX
+MLX-z-image, https://huggingface.co/uqer1244/MLX-z-image,Zimage
